@@ -12,6 +12,7 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 nltk = "*"
+src = {editable = true,path = "."}
 
 [packages]
 

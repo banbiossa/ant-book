@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "aef1b119868394751883af840ebdcb2abdf16a771521642a7a5e0b5128330819"
+            "sha256": "d13b52186815e7e19ab040b46cc521871a43d4b7837fe305f5f69564fc159ffd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -164,10 +164,10 @@
         },
         "jupyter-client": {
             "hashes": [
-                "sha256:4274f2eef4265bfd00216f44993aa50d890a1abe55e414c817128cf0338ae66a",
-                "sha256:4c274aaa3d87b83fa6c6853463f54b8bbff137aeb71e65896ab111c17a62ae63"
+                "sha256:6a6d415c62179728f6d9295b37356d8f6833e9e01c2b6e1901dc555571f57b21",
+                "sha256:f406f214f9daa92be110d5b83d62f3451ffc73d3522db7350f0554683533ab18"
             ],
-            "version": "==5.3.2"
+            "version": "==5.3.3"
         },
         "jupyter-console": {
             "hashes": [
@@ -185,11 +185,11 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:124d71c5f9297e05e2fec6e105bb2f19aab63e9c3acb81d3826b7a1f8e5ce320",
-                "sha256:d7c584d6fff7129728d9860755844fb02b0cedb4f36ec53163999c78fb757320"
+                "sha256:44654f69660728ef8d3948523c6a8283ea495e657b47450babacdffdf3567c45",
+                "sha256:5bb4d38ce16e015005e1344931c55c661230d08ae06773afe8b1fd52ebd35aea"
             ],
             "index": "pypi",
-            "version": "==1.2.0a0"
+            "version": "==2.0.0a0"
         },
         "jupyterlab-server": {
             "hashes": [
@@ -521,6 +521,10 @@
             ],
             "version": "==1.12.0"
         },
+        "src": {
+            "editable": true,
+            "path": "."
+        },
         "terminado": {
             "hashes": [
                 "sha256:d9d012de63acb8223ac969c17c3043337c2fcfd28f3aea1ee429b345d01ef460",
@@ -556,10 +560,10 @@
         },
         "traitlets": {
             "hashes": [
-                "sha256:9c4bd2d267b7153df9152698efb1050a5d84982d3384a37b2c1f7723ba3e7835",
-                "sha256:c6cb5e6f57c5a9bdaa40fa71ce7b4af30298fbab9ece9815b5d995ab6217c7d9"
+                "sha256:262089114405f22f4833be96b31e143ab906d7764a22c04c71fee0bbda4787ba",
+                "sha256:6ad5b30dacd5e2424c46cc94a0aeab990d98ae17d181acea2cc4272ac3409fca"
             ],
-            "version": "==4.3.2"
+            "version": "==4.3.3.dev0"
         },
         "wcwidth": {
             "hashes": [
