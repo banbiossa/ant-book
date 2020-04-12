@@ -4,17 +4,18 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+
+[packages]
 black = "*"
 jupyter = "*"
-jupyterlab = "*"
+jupyterlab = "~=1.0"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 nltk = "*"
-src = {editable = true,path = "."}
-
-[packages]
+flake8 = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.7"
