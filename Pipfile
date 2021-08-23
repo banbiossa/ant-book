@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 black = "*"
 jupyter = "*"
-jupyterlab = "~=1.0"
+jupyterlab = "~=1.2"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
